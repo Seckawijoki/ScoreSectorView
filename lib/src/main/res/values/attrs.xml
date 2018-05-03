@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScoreSectorView">
+        <attr name="centerDrawable" format="reference"/>
+        <attr name="bottomArcColor" format="color"/>
+        <attr name="topArcColor" format="color"/>
+        <attr name="arcWidth" format="dimension"/>
+        <attr name="digitTextColor" format="color"/>
+        <attr name="digitTextSize" format="dimension"/>
+        <attr name="unitTextColor" format="color"/>
+        <attr name="unitTextSize" format="dimension"/>
+        <attr name="unitText" format="string"/>
+        <attr name="stateColor" format="color"/>
+        <attr name="stateSize" format="dimension"/>
+        <attr name="startColor" format="color"/>
+        <attr name="endColor" format="color"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="drawState" format="boolean"/>
+    </declare-styleable>
+</resources>
